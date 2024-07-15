@@ -1,0 +1,20 @@
+#id2 {
+    color: blue;
+    font-size : 36px;
+}
+
+#id4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.class_odd {
+    background-color: pink;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.class_odd,
+.class_three {
+    font-size: 24px;
+}
